@@ -4687,6 +4687,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4961358473801421992, guid: 9e90e7616b3893a4a83c8d86bab44556, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 7682957775627198602, guid: 9e90e7616b3893a4a83c8d86bab44556, type: 3}
       propertyPath: m_Name
       value: swing (1)
@@ -7006,6 +7010,10 @@ PrefabInstance:
     - target: {fileID: 3539481565865578386, guid: 9e90e7616b3893a4a83c8d86bab44556, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4961358473801421992, guid: 9e90e7616b3893a4a83c8d86bab44556, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 7682957775627198602, guid: 9e90e7616b3893a4a83c8d86bab44556, type: 3}
       propertyPath: m_Name
